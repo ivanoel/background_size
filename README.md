@@ -1,4 +1,4 @@
-﻿ # Reduzir imagem ao rolar
+﻿ # Reduzir imagem ao rolar scroll na página com javascript.
 
 Como sempre, mantive o estilo no mínimo para você enlouquecer e torná-lo seu.
 
